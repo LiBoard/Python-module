@@ -56,7 +56,7 @@ class USBBoard:
 
 class _USBBoardProtocol(Protocol):
     def __init__(self):
-        self._bytes = []
+        self._bytes = b''
         self._bitboard_handler = None
 
     def register_bitboard_handler(self, handler: Optional[Callable[[Bits], Any]]):
