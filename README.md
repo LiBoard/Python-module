@@ -1,3 +1,6 @@
+This repository is deprecated and only here for historical reasons.
+The new repository can be found at [https://github.com/LiBoard/Python](https://github.com/LiBoard/Python).
+
 # LiBoard - Python module
 The LiBoard Python module is used by the provided scripts and can be used for
 your own scripts.
